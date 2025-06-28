@@ -108,3 +108,15 @@ For the Booking Management System, examples include:
 - The website should maintain **99.9% uptime**, ensuring high availability.
 - The system must support **multiple languages**, including English and French.
 
+## 📊 Use Case Diagrams
+
+Use Case Diagrams provide a visual representation of the interactions between **users (actors)** and the **system (use cases)**. They help communicate functional requirements in a clear and structured way, making it easy for developers and stakeholders to understand system behavior at a glance.
+
+### 🎯 Benefits:
+- Identifies the **primary actors** interacting with the system
+- Helps map **key system functionalities**
+- Serves as a **foundation** for test case design and requirement validation
+
+Below is the use case diagram for our Booking Management System.
+
+![Use Case Diagram](alx-booking-uc.png)
