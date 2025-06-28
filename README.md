@@ -81,3 +81,30 @@ _Ensures that documented requirements accurately reflect stakeholder needs.
 _Detects ambiguities, contradictions, or missing elements early in the SDLC.
 
 _Techniques include reviews, walkthroughs, prototyping, and test case generation.
+
+## 🧩 Types of Requirements
+
+### ✅ Functional Requirements
+
+Functional requirements describe the core **features and behaviors** the system must perform to fulfill its purpose.
+
+For the Booking Management System, examples include:
+- Users should be able to **search for available rooms** by date, room type, and location.
+- The system must allow **booking creation, modification, and cancellation**.
+- Registered users should be able to **view their booking history**.
+- Admins should have access to a dashboard to **add or remove property listings**.
+- The system should **send automated email confirmations** after a successful booking.
+
+---
+
+### ⚙️ Non-functional Requirements
+
+Non-functional requirements focus on **how** the system performs its tasks, like performance, security, and usability.
+
+For the Booking Management System, examples include:
+- The system should be **accessible across desktop and mobile devices** (responsive design).
+- The application should process user search queries in **under 2 seconds**.
+- All user data must be stored securely, complying with **data protection regulations**.
+- The website should maintain **99.9% uptime**, ensuring high availability.
+- The system must support **multiple languages**, including English and French.
+
