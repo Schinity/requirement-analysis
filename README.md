@@ -122,4 +122,36 @@ Below is the use case diagram for our Booking Management System.
 !Hotel Management Service Architecture (alx-booking-uc.png)
 ![image](https://github.com/user-attachments/assets/eb6765f3-551e-4fb8-8816-135264c232ed)
 
+## 🧩 Types of Requirements
+
+In software engineering, requirements are generally categorized into two major types: **Functional Requirements** and **Non-functional Requirements**. Both are crucial to building a reliable and user-centric system.
+
+---
+
+### ✅ Functional Requirements
+
+These describe the **specific features and behaviors** the system should exhibit. They define *what* the system is supposed to do — the core capabilities that support user needs and business processes.
+
+**Examples for the Booking Management System:**
+- Users must be able to **search available rooms** using filters like dates, room types, and locations.
+- The system must allow users to **create, modify, or cancel bookings**.
+- Users should be able to **register, log in, and recover passwords** securely.
+- The system must send a **booking confirmation email** immediately after a successful reservation.
+- Admins should be able to **add, edit, or delete listings** for rooms and properties.
+
+---
+
+### ⚙️ Non-functional Requirements
+
+These refer to the **qualities and constraints** of the system. They describe *how* the system operates rather than what it does — such as performance, usability, and reliability.
+
+**Examples for the Booking Management System:**
+- The website must maintain **99.9% uptime** to ensure booking availability at all times.
+- The platform should load the booking search page in **under 2 seconds**.
+- All sensitive data must be **encrypted in transit and at rest**, complying with data protection laws.
+- The interface must be **responsive**, supporting various devices including smartphones and tablets.
+- The application should support **multi-language capabilities**, including English and French.
+
+
+
 
