@@ -6,11 +6,11 @@ Welcome to the **Requirement Analysis in Software Development** repository.
 This project serves as a foundational blueprint for understanding and applying requirement analysis techniques within the software development lifecycle (SDLC). It includes comprehensive documentation, use case diagrams, and real-world examples related to a booking management system.
 
 Whether you're a developer, stakeholder, or curious learner, this repository provides clear insights into how structured analysis leads to better software planning, execution, and delivery.
-####What is Requirement Analysis?
+### What is Requirement Analysis?
 
 Requirement Analysis is the foundational phase in the Software Development Life Cycle (SDLC) where the needs, expectations, and constraints of stakeholders are identified, documented, and analyzed to define what the software system must achieve. It acts as the blueprint for the entire development process, ensuring that the final product aligns with business goals and user expectations.
 
-###This process involves:
+### This process involves:
 
 🧠 Understanding what the client or end-user wants
 
@@ -20,7 +20,7 @@ Requirement Analysis is the foundational phase in the Software Development Life 
 
 📄 Documenting everything in a structured format for developers, testers, and stakeholders
 
-##Why is Requirement Analysis Important?
+## Why is Requirement Analysis Important?
 
 Requirement Analysis is not just a step — it’s the cornerstone of successful software development. Here's why:
 
@@ -41,24 +41,24 @@ It enables accurate project scoping and risk assessment
 
 
 
-###ey Activities in Requirement Analysis
+### Activities in Requirement Analysis
 ###Requirement Gathering
 
-_Involves collecting raw requirements from stakeholders, clients, users, and subject matter experts.
+_ Involves collecting raw requirements from stakeholders, clients, users, and subject matter experts.
 
-_Focuses on understanding the business needs and expectations.
+_ Focuses on understanding the business needs and expectations.
 
-_Techniques include interviews, surveys, observation, and reviewing existing documentation.
+_ Techniques include interviews, surveys, observation, and reviewing existing documentation.
 
-##Requirement Elicitation
+## Requirement Elicitation
 
-_Goes beyond gathering — it’s about uncovering hidden, implicit, or conflicting requirements.
+_ Goes beyond gathering — it’s about uncovering hidden, implicit, or conflicting requirements.
 
 _Encourages collaboration between developers and stakeholders to clarify needs.
 
-_Uses methods like brainstorming, workshops, prototyping, and role-playing.
+_- Uses methods like brainstorming, workshops, prototyping, and role-playing.
 
-###Requirement Documentation
+### Requirement Documentation
 
 _Converts gathered and elicited requirements into structured, readable formats.
 
@@ -66,7 +66,7 @@ _Common artifacts include Software Requirements Specifications (SRS), user stori
 
 _Ensures traceability, clarity, and a shared understanding across teams.
 
-###Requirement Analysis and Modeling
+### Requirement Analysis and Modeling
 
 _Involves evaluating requirements for feasibility, consistency, and completeness.
 
@@ -74,7 +74,7 @@ _Helps identify dependencies, constraints, and potential risks.
 
 _Often includes visual models like data flow diagrams, entity-relationship diagrams, and use case diagrams.
 
-###Requirement Validation
+### Requirement Validation
 
 _Ensures that documented requirements accurately reflect stakeholder needs.
 
