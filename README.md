@@ -41,7 +41,7 @@ It enables accurate project scoping and risk assessment
 
 
 
-### Activities in Requirement Analysis
+### Key Activities in Requirement Analysis
 ### Requirement Gathering
 
 - Involves collecting raw requirements from stakeholders, clients, users, and subject matter experts.
