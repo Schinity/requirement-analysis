@@ -22,7 +22,7 @@ Requirement Analysis is the foundational phase in the Software Development Life 
 
 ## Why is Requirement Analysis Important?
 
-Requirement Analysis is not just a step — it’s the cornerstone of successful software development. Here's why:
+# Requirement Analysis is not just a step — it’s the cornerstone of successful software development. Here's why:
 
 1. Clarity and Alignment
 It ensures that all stakeholders — from clients to developers — have a shared understanding of what the software should do.
@@ -42,45 +42,45 @@ It enables accurate project scoping and risk assessment
 
 
 ### Activities in Requirement Analysis
-###Requirement Gathering
+### Requirement Gathering
 
-_ Involves collecting raw requirements from stakeholders, clients, users, and subject matter experts.
+- Involves collecting raw requirements from stakeholders, clients, users, and subject matter experts.
 
-_ Focuses on understanding the business needs and expectations.
+- Focuses on understanding the business needs and expectations.
 
-_ Techniques include interviews, surveys, observation, and reviewing existing documentation.
+- Techniques include interviews, surveys, observation, and reviewing existing documentation.
 
 ## Requirement Elicitation
 
-_ Goes beyond gathering — it’s about uncovering hidden, implicit, or conflicting requirements.
+- Goes beyond gathering — it’s about uncovering hidden, implicit, or conflicting requirements.
 
-_Encourages collaboration between developers and stakeholders to clarify needs.
+- Encourages collaboration between developers and stakeholders to clarify needs.
 
-_- Uses methods like brainstorming, workshops, prototyping, and role-playing.
+- Uses methods like brainstorming, workshops, prototyping, and role-playing.
 
 ### Requirement Documentation
 
-_Converts gathered and elicited requirements into structured, readable formats.
+- Converts gathered and elicited requirements into structured, readable formats.
 
-_Common artifacts include Software Requirements Specifications (SRS), user stories, and use cases.
+- Common artifacts include Software Requirements Specifications (SRS), user stories, and use cases.
 
-_Ensures traceability, clarity, and a shared understanding across teams.
+- Ensures traceability, clarity, and a shared understanding across teams.
 
 ### Requirement Analysis and Modeling
 
-_Involves evaluating requirements for feasibility, consistency, and completeness.
+- Involves evaluating requirements for feasibility, consistency, and completeness.
 
-_Helps identify dependencies, constraints, and potential risks.
+- Helps identify dependencies, constraints, and potential risks.
 
-_Often includes visual models like data flow diagrams, entity-relationship diagrams, and use case diagrams.
+- Often includes visual models like data flow diagrams, entity-relationship diagrams, and use case diagrams.
 
 ### Requirement Validation
 
-_Ensures that documented requirements accurately reflect stakeholder needs.
+- Ensures that documented requirements accurately reflect stakeholder needs.
 
-_Detects ambiguities, contradictions, or missing elements early in the SDLC.
+- Detects ambiguities, contradictions, or missing elements early in the SDLC.
 
-_Techniques include reviews, walkthroughs, prototyping, and test case generation.
+- Techniques include reviews, walkthroughs, prototyping, and test case generation.
 
 ## 🧩 Types of Requirements
 
