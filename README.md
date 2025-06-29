@@ -120,4 +120,6 @@ Use Case Diagrams provide a visual representation of the interactions between **
 Below is the use case diagram for our Booking Management System.
 
 ![Use Case Diagram](alx-booking-uc.png)
+![image](https://github.com/user-attachments/assets/eb6765f3-551e-4fb8-8816-135264c232ed)
+
 
