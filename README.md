@@ -152,6 +152,35 @@ These refer to the **qualities and constraints** of the system. They describe *h
 - The interface must be **responsive**, supporting various devices including smartphones and tablets.
 - The application should support **multi-language capabilities**, including English and French.
 
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are the specific, measurable conditions that a software feature must meet to be considered complete and acceptable by stakeholders. They define the boundaries of a user story or requirement and ensure that the delivered functionality aligns with business goals and user expectations.
+
+### 🔍 Why Acceptance Criteria Matter
+
+- **Clarity & Alignment**: They eliminate ambiguity by clearly stating what success looks like for a feature.
+- **Testability**: They serve as the foundation for writing test cases and validating functionality.
+- **Scope Control**: They help prevent scope creep by defining exactly what is (and isn’t) included in a feature.
+- **User-Centric Focus**: They ensure that development stays aligned with real user needs and scenarios.
+
+---
+
+### 🧾 Example: Checkout Feature – Booking Management System
+
+**Stanley's Story**:  
+_As a registered user, I want to complete a room booking and make payment so that I can confirm my reservation._
+
+**Acceptance Criteria**:
+- ✅ The user must be logged in to access the checkout page.
+- ✅ The checkout page must display a summary of the selected room, dates, and total cost.
+- ✅ The user must be able to enter or select a saved payment method.
+- ✅ The system must validate payment details before processing.
+- ✅ Upon successful payment, the system must:
+  - Generate a unique booking reference number.
+  - Send a confirmation email to the user.
+  - Update room availability in the system.
+- ✅ If payment fails, the user should receive a clear error message and be prompted to retry.
+
 
 
 
